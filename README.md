@@ -1,6 +1,8 @@
 # Cinema-API
 
-API service for cinema management written on DRF
+API service for cinema management written on DRF. 
+Django project for ordering movie tickets. You don't have to go anywhere else to buy tickets. 
+Just place an order online and tickets will be sent to your email.
 
 ## Features
 
